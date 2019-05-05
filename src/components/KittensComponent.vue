@@ -1,5 +1,5 @@
 <template>
-  <div class="well">
+  <div class="well kittens">
     <img :src="catimgsrc" />
   </div>
 </template>
